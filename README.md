@@ -2,4 +2,4 @@
 
 This is my project hrjkqhflekjghljkdfh
 
-## ![](Data Analysis Sample Images/covid.jpg)
+## ![](covid.jpg)
