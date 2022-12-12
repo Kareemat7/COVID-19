@@ -1,5 +1,10 @@
 # [Covid19 Analytics Report In Nigeria](https://kareemat7.github.io/COVID-19/)
 
-This is my project hrjkqhflekjghljkdfh
+I extracted covid19 life Data from [NCDC](http://covid19.ncdc.gov.ng) using web to get the data into powerbi to create a dashboard. since this is a life data it will keep update when i refresh it in powerbi to give me recent covid19 records in Nigeria.
 
-## ![](Data Analysis Sample Images/covid.jpg)
+## **TOOLS**
+###PowerBi for data vizualization.
+
+##**DASHBOARD**
+[](Data Analysis Sample Images/covid.jpg)
+
