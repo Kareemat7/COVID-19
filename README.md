@@ -6,5 +6,6 @@ I extracted covid19 life Data from [NCDC](http://covid19.ncdc.gov.ng) using web 
 ###PowerBi for data vizualization.
 
 ##**DASHBOARD**
-![](Data Analysis Sample Images/COVID19.jpg)
+
+[](Data Analysis Sample Images/COVID19.jpg)
 
