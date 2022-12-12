@@ -7,5 +7,4 @@ I extracted covid19 life Data from [NCDC](http://covid19.ncdc.gov.ng) using web 
 
 ## **DASHBOARD**
 ![](https://github.com/Kareemat7/COVID-19/blob/main/Data%20Analysis%20Sample%20Images/COVID19.jpg)
-(Data Analysis Sample Images/COVID19.jpg)
 
